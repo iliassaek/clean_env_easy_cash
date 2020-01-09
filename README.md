@@ -55,7 +55,7 @@ It contains the chat with all recruiters, he can go to the ChatRoom with a speci
 
 - Collector - ChatRoom : 
 
-For example in this case, the recruiter "ATLAS Hotel" room chat is selected.
+For example in this case, the recruiter "ATLAS Hotel" room chat is selected. IBM Chat bot is an option
 
 ![](readme_media/ChatRoom2.png)
 
